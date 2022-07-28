@@ -1,0 +1,8 @@
+Git init: Tạo môi trường để tương tác với git
+Git add . : Thêm git vào phần state area
+Git commit - m "text" : chuyển git từ state area sang git local 
+Git push: đẩy git lên sever 
+Git clone + (link src): Đưa dữ liệu từ git về máy 
+git pull  + (branch): cập nhật dữ liệu từ git clone
+git config --global user.name "Tùy ý":Tạo tên người dùng(chỉ dùng ở lần đầu tiên sử dụng hoặc muốn đổi lại tên)
+git config --global user.email "Tùy ý@gmail.com":Tạo gmail để git xác định dang tính (chỉ dùng ở lần đầu tiên sử dụng hoặc muốn đổi lại tên)
