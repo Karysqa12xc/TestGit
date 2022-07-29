@@ -2,3 +2,5 @@ git config --global user.name "Akira"
 git config --global user.email "Akira@gmail.com"
 
 git pull : để cập nhật dữ liệu từ remote
+
+File A sửa để B text
